@@ -1,0 +1,29 @@
+#!/bin/bash 
+clear
+echo "-----"
+echo ""
+echo " This bash file will stage and push the changes to the following repository "
+echo " https://github.com/skindenovo"
+echo ""
+echo " This github is pushing to netlify where the website is being hosted"
+echo ""
+echo " The commands which will be executed are "
+echo " "
+echo " 1. $ git add . = Adds all the changes"
+echo " 2. $ git commit -m . = This adds the commit message ."
+echo " 3. $ git push -u origin main = pushes to the main "
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+read -n 1 -r -s -p $'Press enter to continue...\n'
+echo ""
+git add . 
+git commit -m . 
+git push -u origin main 
+echo ""
+echo ""
+echo " Finished :)"
+echo "" 
+echo "" 
