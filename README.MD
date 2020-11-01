@@ -1,2 +1,6 @@
-This is the Skindenov Placeholder wesbite 
-will be undergoing several changes
+
+# Sun 01 Nov 2020 08:13:32 AM PST
+
+This repository contains assets for the website - skindenovo.ie
+
+
